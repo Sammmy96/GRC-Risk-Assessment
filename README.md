@@ -8,7 +8,7 @@ The assessment identifies key risks, evaluates their potential business impact, 
 Objective
 To demonstrate applied Governance, Risk, and Compliance (GRC) skills through:
 
-Asset identification
+Asset identification<>
 Threat & vulnerability analysis
 Risk scoring (Likelihood × Impact model)
 Risk prioritization
